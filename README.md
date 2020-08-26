@@ -1,6 +1,6 @@
 # Front-end practice portifolio
 
-Some front-end projects build for practice. The projects are from the App Brewery's 2020 Web Development Bootcamp course.
+Some simple front-end projects build for practice. The projects are from the App Brewery's 2020 Web Development Bootcamp course.
 
 
 ## TinDog Webpage
