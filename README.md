@@ -1,4 +1,4 @@
-# Front-end practice portifolio
+# Front-end practice projects
 
 Some simple front-end projects build for practice. The projects were developed during my studies at the App Brewery's 2020 Web Development Bootcamp course and Alura Treinamentos courses.
 
