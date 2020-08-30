@@ -5,21 +5,21 @@ Some simple front-end projects build for practice. The projects were developed d
 
 ## TinDog Webpage
 
-- WebPage for a copycat of a famous date app.
+- Web page for a copycat of a famous date app.
 - Focus on HTML & CSS only. No JavaScript.
 - Bootstrap study.
 - Developed from AppBrewery courses.
 
 ## Dicee Game
 
-- WebPage with a dice game.
-- WebPage for the bootcamp challenge based on DOM Manipulation.
+- Web page with a dice game.
+- Web page for the bootcamp challenge based on DOM Manipulation.
 - Simple JavaScript usage in webpage.
 - Developed from AppBrewery courses.
 
 ## DrumKit
 
-- WebPage with a drumkit web app.
+- Web page with a drumkit web app.
 - The focus was to deal with events and listeners.
 - Developed from AppBrewery courses.
 
@@ -32,14 +32,14 @@ Some simple front-end projects build for practice. The projects were developed d
 
 ## Alurinha
 
-- Frontpage for a ficticious educational website.
+- Front page for a ficticious educational website.
 - HTML & CSS only.
 - Flexbox study.
 - Developed from Alura courses.
 
 ## Alura Store
 
-- Frontpage for a ficticious store website.
+- Front page for a ficticious store website.
 - HTML & CSS only.
 - CSS Grid study.
 - Developed from Alura courses.
