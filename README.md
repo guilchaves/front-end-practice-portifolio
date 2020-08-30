@@ -10,7 +10,7 @@ Some simple front-end projects build for practice. The projects were developed d
 - Bootstrap study.
 - Developed from AppBrewery courses.
 
-## Dicee Challenge
+## Dicee Game
 
 - WebPage with a dice game.
 - WebPage for the bootcamp challenge based on DOM Manipulation.
@@ -22,6 +22,12 @@ Some simple front-end projects build for practice. The projects were developed d
 - WebPage with a drumkit web app.
 - The focus was to deal with events and listeners.
 - Developed from AppBrewery courses.
+
+## Simon Game
+
+- A simple Simon Game application.
+- Programming logic exercise using jQuery.
+- ES6 synthax.
 
 ## Alurinha
 
@@ -36,3 +42,4 @@ Some simple front-end projects build for practice. The projects were developed d
 - HTML & CSS only.
 - CSS Grid study.
 - Developed from Alura courses.
+
