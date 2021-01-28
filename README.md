@@ -37,7 +37,7 @@ Some simple front-end projects build for practice. The projects were developed d
 ## Alurinha
 
 - Front page for a ficticious educational website;
-- HTML & CSS onl;
+- HTML & CSS only;
 - Flexbox study;
 - Developed from Alura courses;
 - Language: pt-br.
